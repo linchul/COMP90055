@@ -1,4 +1,4 @@
-#model selection
+# model selection
 
 ### lr: logistic regression
 * lr.ipynb:
@@ -22,20 +22,20 @@
 * lr_final1_all.ipynb:
   Use lr for model training with all the features(good)
   
-###svm: support vector machines
+### svm: support vector machines
 * svm.ipynb:
   Use svm for model training without using feature engineering
   
 * svm_final.ipynb:
   Use svm for model training with all the features(good)
 
-###lstm: long short term memory
+### lstm: long short term memory
 * LSTM.ipynb:
   Use lstm for model training without using feature engineering
 * LSTM-final.ipynb:
   Use lstm for model training with all the features(good)
 
-###bert: Bidirectional Encoder Representations from Transformers
+### bert: Bidirectional Encoder Representations from Transformers
 * Bert_data_pre.ipynb:
   Prepare data for bert without feature engineering.
 * Bert_data_pre_all.ipynb:
@@ -46,7 +46,7 @@
   Use bert for model training with all features(best)
 
 
-###data analysis
+### data analysis
 * data analysis.ipynb:
   Analyze data
 
