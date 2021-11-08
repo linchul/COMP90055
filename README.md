@@ -18,3 +18,6 @@ Process the raw data crawled from Twitter and build the training set
 
 ### model
 Model selection + Feature Engineering on machine learning models and deep learning models
+
+### R_code
+R code
